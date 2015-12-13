@@ -1,0 +1,19 @@
+{
+  "name": "jobscaper-client-common",
+  "homepage": "https://github.com/dylanspurgin/jobscaper-client-common",
+  "authors": [
+    "Dylan Spurgin <dylan@spurgin.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
